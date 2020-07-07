@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jarrett33.github.io</id>
+    <id>https://jarrett33.github.io/Navigation-Webstack</id>
     <title>Jarrett</title>
-    <updated>2020-07-06T14:12:36.727Z</updated>
+    <updated>2020-07-07T03:12:55.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jarrett33.github.io"/>
-    <link rel="self" href="https://jarrett33.github.io/atom.xml"/>
+    <link rel="alternate" href="https://jarrett33.github.io/Navigation-Webstack"/>
+    <link rel="self" href="https://jarrett33.github.io/Navigation-Webstack/atom.xml"/>
     <subtitle>晚来天欲雪，能饮一杯无？</subtitle>
-    <logo>https://jarrett33.github.io/images/avatar.png</logo>
-    <icon>https://jarrett33.github.io/favicon.ico</icon>
+    <logo>https://jarrett33.github.io/Navigation-Webstack/images/avatar.png</logo>
+    <icon>https://jarrett33.github.io/Navigation-Webstack/favicon.ico</icon>
     <rights>All rights reserved 2020, Jarrett</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://jarrett33.github.io/post/hello-gridea/</id>
-        <link href="https://jarrett33.github.io/post/hello-gridea/">
+        <id>https://jarrett33.github.io/Navigation-Webstack/post/hello-gridea/</id>
+        <link href="https://jarrett33.github.io/Navigation-Webstack/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
